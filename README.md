@@ -3,7 +3,7 @@
 
 <h4 align="center">Connect with me:</h4>
 <p align="center">
-<a href="https://www.instagram.com/sifandax/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedsifankp" height="30" width="40" /></a><a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-sifan-b2546b18a/" height="30" width="30" /></a>
+<a href="https://www.instagram.com/sifandax/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedsifankp" height="30" width="40" /></a><a href="https://www.linkedin.com/feed/?trk=homepage-basic_google-one-tap-submit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-sifan-b2546b18a/" height="30" width="30" /></a>
 </p>
 
 <h4 align="center">Languages and Tools:</h4>
